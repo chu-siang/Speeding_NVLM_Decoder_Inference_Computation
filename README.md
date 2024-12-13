@@ -1,6 +1,6 @@
 # Speeding_NVLM_Decoder_Inference_Computation
 Using Different framework and method to speed up the NVLM inference
-NYCU HPC Team 團隊來自 陽明交通大學，將 NVLM 加速41.72倍！！
+NYCU HPC Team 團隊來自 陽明交通大學，將 NVLM 加速37.81倍！！
 * Team Members: Chu-Siang Tseng, Shun-Yu Yang, Cheng-Wei Lin, Chen-Kai Chang, Zong-Hua Wu, Jia-Hui Shen
 * NVIDIA Mentors: Shijie Wang.
 
@@ -10,4 +10,4 @@ NYCU HPC Team 團隊來自 陽明交通大學，將 NVLM 加速41.72倍！！
 
 我們也因為LLM,LMM的趨勢 選擇這主題來當作這次Hackthon 加速主題, 其中我們試了多種框架最後由 Mentor 的版本 加速了41.72倍推論時間
 
-更多資訊請看：https://github.com/chu-siang/Speeding_NVLM_Decoder_Inference_Computation
+更多資訊請看：[https://github.com/chu-siang/Speeding_NVLM_Decoder_Inference_Computation](https://github.com/nqobu/nvidia/tree/main/20241204 )
